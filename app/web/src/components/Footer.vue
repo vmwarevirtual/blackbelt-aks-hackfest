@@ -14,7 +14,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-        Boot Camp AKS Yo Yo !!!!!!!!
+        Boot Camp AKS Yo Yo ------VVV
       </div>
       <div class="col-lg-6">
       </div>
